@@ -9,3 +9,5 @@ const preferredDays: Record<string, number> = {
 };
 
 export default preferredDays;
+
+// console.log("just for");
