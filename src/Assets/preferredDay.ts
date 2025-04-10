@@ -12,3 +12,4 @@ export default preferredDays;
 
 // console.log("just for");
 // console.log("just for funnnnnnnn");
+// console.log(preferredDays["sunday"]);
